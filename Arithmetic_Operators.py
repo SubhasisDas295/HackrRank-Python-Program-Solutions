@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print(d)
     e = a * b
     print(e)
+    print("hello")
